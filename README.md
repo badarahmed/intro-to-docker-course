@@ -6,4 +6,5 @@ https://github.com/badarahmed/intro-to-docker-course/blob/master/course-outline.
 ## Video Part 1:
 - Video: https://youtu.be/BfpQ48YbAZA
 - Slides (PDF): https://github.com/badarahmed/intro-to-docker-course/raw/master/slides-part1.pdf
-- Slides (Markdown Source): https://github.com/badarahmed/intro-to-docker-course/blob/master/slides-part1.md
+
+- Slides (Raw Markdown Source): https://github.com/badarahmed/intro-to-docker-course/blob/master/slides-part1.md
